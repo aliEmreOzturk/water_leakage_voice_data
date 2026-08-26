@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the companion paper as below."
+authors:
+- family-names: "Öztürk"
+  given-names: "Ali Emre"
+- family-names: "Kıymık"
+  given-names: "Erkan"
+- family-names: "Özkök"
+  given-names: "Kağan Mehmet"
+title: "Novel dataset and model for restroom sound event classification"
+doi: "10.1038/s41598-025-18154-z"
+date-released: 2025-09-01
+url: "https://nature.com"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Öztürk"
+    given-names: "Ali Emre"
+  - family-names: "Kıymık"
+    given-names: "Erkan"
+  - family-names: "Özkök"
+    given-names: "Kağan Mehmet"
+  title: "Novel dataset and model for restroom sound event classification"
+  journal: "Scientific Reports"
+  volume: 15
+  year: 2025
+  doi: "10.1038/s41598-025-18154-z"
